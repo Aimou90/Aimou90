@@ -2,7 +2,7 @@
 
 <body>
   <center>
-<h1 align="center">  ~ BIENVENIDOS ~  </h1>
+<h1 align="center">  BIENVENIDOS   </h1>
 <br>
 <div align="center">
   <img src="https://i.pinimg.com/originals/92/7d/46/927d468a539415804e1230bd1d5f25b2.gif">
