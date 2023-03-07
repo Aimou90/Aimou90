@@ -1,17 +1,5 @@
 
 
-<body>
-  <center>
-<h1 align="center">  BIENVENIDOS   </h1>
-<br>
-<div align="center">
-  <img src="https://tenor.com/es/view/joker-game-miyoshi-anime-gif-5935878">
-  <!-- <a href="https://ryzn.site/" >
-   <img src="https://lanyard.cnrad.dev/api/376260355313106944?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a> -->
-<br>
-
-
 
 
 ## 🌐 Redes:
